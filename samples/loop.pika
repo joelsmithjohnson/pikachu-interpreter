@@ -1,0 +1,18 @@
+pikachu pi pi pikachu               // push 2 pi pikachu
+pi pika pikachu pi pika pi pikachu  // push 5 pi pikachu
+pi pikachu pi pikachu               // Mult pi pikachu
+pi pika pikachu                     // push 1 pika pikachu
+pi pika pikachu                     // push 1 pika pikachu
+pika pi pika pikachu                // SUB pika pikachu
+pika pi                             // copies from pika pikachu to pi pikachu
+pika pikachu pika pikachu           // prints pika pikachu as a number
+pi pika                             // copies from pi pikachu to pika pikachu
+pi pikachu                          // pop from pi pikachu
+pi pika pikachu                     // push 1 to pika pikachu
+pi pika pika pikachu                // add pika pikachu
+pikachu pikachu                     // compare stacks if equal
+pika pikachu pika pika pi pi pikachu pika pikachu pi pika pika pi pikachu pikachu pi pika // goto line 17
+pika pika                           // compare stacks if not equal
+pikachu pi pika pika pi pikachu pi  // goto line 7
+pika pikachu                        // pop from pika pikachu
+
