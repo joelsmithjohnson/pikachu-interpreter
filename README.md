@@ -17,7 +17,7 @@ python setup.py install
 From the command line. navigate to where your Pikachu files are located. 
 
 ```bash
-$ python -m pikachu {PikachuFileName}
+$ python -m pikachu {PikachuFileName} [args]
 ```
 
 
