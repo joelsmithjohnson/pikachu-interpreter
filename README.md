@@ -8,8 +8,8 @@ The definition of the esoteric programming language named 'pikachu' can be found
 
 ```bash
 $ git clone https://github.com/joelsmithjohnson/pikachu-interpreter
-cd pikachu-interpreter
-python setup.py install
+$ cd pikachu-interpreter
+$ python setup.py install
 ```
 
 ### Usage
