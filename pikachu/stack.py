@@ -84,7 +84,7 @@ class PikaStack():
         float("NaN")
         """
         if self.__check_binary_op():
-            a = self.pop()
+            a = self.POP()
             b = self.POP()
             if a == 0:
                 self.PUSH(float('NaN'))
