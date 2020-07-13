@@ -14,12 +14,16 @@ $ python setup.py install
 
 ### Usage
 
-From the command line. navigate to where your Pikachu files are located. 
+From the command line. navigate to where your Pikachu files are located, and run the following command.
+
+```bash
+$ python -m pikachu {PikachuFileName}
+```
+
+You can also specify n number of integers you want to preload onto the main stack (named `pi pikachu`). Use the following syntax where `[args]` represents a space seperated list of integers. 
 
 ```bash
 $ python -m pikachu {PikachuFileName} [args]
 ```
-
-
 
  
